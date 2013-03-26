@@ -2,7 +2,7 @@
  * Main.cpp
  *
  *  Created on: 25/03/2013
- *      Author: hamish
+ *      Author: Hamish
  */
 #include <iostream>
 
