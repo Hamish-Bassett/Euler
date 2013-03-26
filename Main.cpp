@@ -5,12 +5,13 @@
  *      Author: Hamish
  */
 #include <iostream>
+#include "Mult35.hpp"
 
 int main(void)
 {
 	using namespace std;
 
-	cout<<"Hello World"<<endl;
+	Solve3_5();
 
 	return 0;
 }

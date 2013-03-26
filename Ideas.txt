@@ -1,0 +1,6 @@
+MULTIPLES OF 3 AND 5
+	WAYS OF FINDING MULTIPLES
+		Loop multiples of 5, then loop multiples of 3 without 3*5...
+		Brute force over all numbers.
+		make 2 lists and concaternate
+		
